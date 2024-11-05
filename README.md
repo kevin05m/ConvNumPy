@@ -18,13 +18,13 @@ Sigue estos pasos para instalar y ejecutar el programa en un entorno virtual:
 1. **Clona este repositorio** en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/kevin05m/ConvNumPy.git
    ```
 
 2. **Navega al directorio del proyecto:**
 
    ```bash
-   cd nombre-del-repositorio
+   cd ConvNumPy
    ```
 
 3. **Crea un entorno virtual** para gestionar las dependencias:
